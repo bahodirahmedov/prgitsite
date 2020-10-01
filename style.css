@@ -1,0 +1,18 @@
+body{
+  background-color: lightblue;
+}
+.total{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 300px;
+  height: 200px;
+  background-color: lightcoral;
+}
+.total a{
+  padding: 10px;
+  text-decoration: none;
+  color: gold;
+  background-color: darkblue;
+
+}
